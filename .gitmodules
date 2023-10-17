@@ -1,3 +1,6 @@
 [submodule "Training-html-css/Training-html-css"]
 	path = Training-html-css/Training-html-css
 	url = https://github.com/phunguyen-nam/Training-html-css
+[submodule "HTML/Training-html-css"]
+	path = HTML/Training-html-css
+	url = https://github.com/phunguyen-nam/Training-html-css
